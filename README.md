@@ -3,7 +3,8 @@ Here's your **updated GitHub README** with your real information:
 ---
 
 # **Hi there, I'm Rajat!** 👋  
-
+Things I code with
+React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
 ## **About Me**  
 I'm a passionate **Full Stack Software Developer** with expertise in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I love solving real-world problems through **scalable and efficient web applications**. I'm constantly learning and upskilling to stay ahead in the tech industry.  
 

@@ -1,6 +1,3 @@
-Here's your **updated GitHub README** with your real information:  
-
----
 
 # **Hi there, I'm Rajat!** 👋  
 <h3>𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h3>
@@ -79,6 +76,3 @@ Here are some of my notable projects:
 
 🚀 **Thanks for visiting my profile!** Feel free to **connect, collaborate, or discuss** anything tech-related! 😊  
 
----
-
-This README **fully reflects your real skills, projects, and expertise**. Let me know if you need any tweaks! 🚀

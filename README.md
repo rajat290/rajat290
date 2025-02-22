@@ -59,7 +59,7 @@ I'm a passionate Full Stack Software Developer with expertise in MERN Stack (Mon
 ---
 
 ## **Projects**  
-Here are some of my notable projects:  
+Here are some of my notables projects:  
 
 - **[PaddleLift Job Board](https://github.com/rajat290/paddlelift-job-board)** – A fully functional **job board platform** with job listings, applications, and company branding. 
 - **[Manavta Nursery E-commerce](https://github.com/rajat290/manavta-nursery)** – An **online plant-selling platform** with authentication, shopping cart, and a responsive UI.  

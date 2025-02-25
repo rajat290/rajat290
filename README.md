@@ -33,7 +33,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
   
-I'm a passionate Full Stack Software Developer with expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I love solving real-world problems through scalable and efficient web applications. I'm constantly learning and upskilling to stay ahead in the tech industry.  .
+I'm a passionate Full Stack Software Developer with expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js). I love solving real-world problems through scalable and efficient web applications. I'm constantly learning and upskilling to stay ahead in the tech industry.  .
 
 - 🔭 I’m currently working on **React.js, Node.js, Express.js, MongoDB, Next.js, and AWS**.  
 - 🌱 I’m currently learning **Docker, Kubernetes, PostgreSQL, and CI/CD pipelines**.  

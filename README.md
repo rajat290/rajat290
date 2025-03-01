@@ -6,6 +6,8 @@
 
 
 <h3>Things I code with</h3>
+  <img width="845" src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,vite,git,github,tailwind,bootstrap,bash,figma,postman">
+
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />

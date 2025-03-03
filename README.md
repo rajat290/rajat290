@@ -53,7 +53,7 @@ I'm a passionate Full Stack Software Developer with expertise in MERN Stack (Mon
 
 </p>
 
-- 🔭 I’m currently working on **React.js, Node.js, Express.js, MongoDB, Next.js, and AWS**.  
+- 🔭 I’m currently working on **School Management System, Portfolio Website, Clothes E-com Website**.  
 - 🌱 I’m currently learning **Docker, Kubernetes, PostgreSQL, and CI/CD pipelines**.  
 - 👯 I’m looking to collaborate on **open-source projects** and contribute to **MERN Stack applications**.  
 - 💬 Ask me about **web development, backend architecture, API development, and cloud technologies**.  

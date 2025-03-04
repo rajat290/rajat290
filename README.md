@@ -58,7 +58,7 @@ I'm a passionate Full Stack Software Developer with expertise in MERN Stack (Mon
 - 👯 I’m looking to collaborate on **open-source projects** and contribute to **MERN Stack applications**.  
 - 💬 Ask me about **web development, backend architecture, API development, and cloud technologies**.  
 - 📫 How to reach me: **[rajatsinghtomarofficial@gmail.com](mailto:rajatsinghtomarofficial@gmail.com)**  
-- ⚡ Fun fact: I Loves those who says **You are Not Capable** and real fun is I **always give them a 🖕**!  
+- ⚡ Fun fact: I Loves those People who says **You are Not Capable** and real fun is I **always give them a 🖕**!  
 
 ---
 

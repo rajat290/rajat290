@@ -87,7 +87,8 @@ Here are some of my notable projects:
 
 - **[PaddleLift Job Board](https://github.com/rajat290/paddlelift-job-board)** – A fully functional **job board platform** with job listings, applications, and company branding. 
 - **[Manavta Nursery E-commerce](https://github.com/rajat290/manavta-nursery)** – An **online plant-selling platform** with authentication, shopping cart, and a responsive UI.  
-- **[Uber Clone](https://github.com/rajat290/uber-clone)** – A **ride-booking app** with real-time tracking, payment integration, and advanced backend logic.  
+- **[Uber Clone](https://github.com/rajat290/uber-clone)** – A **ride-booking app** with real-time tracking, payment integration, and advanced backend logic.
+- **[Fee Management System ](https://github.com/rajat290/uber-clone)** A ** Fee record maintainance Software** 
 
 ---
 

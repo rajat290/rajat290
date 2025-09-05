@@ -53,6 +53,15 @@ I'm a passionate Full Stack Software Developer with expertise in MERN Stack (Mon
 
 </p>
 
+## **Projects**  
+Here are some of my notable projects:  
+
+- **[PaddleLift Job Board](https://github.com/rajat290/paddlelift-job-board)** – A fully functional **job board platform** with job listings, applications, and company branding. 
+- **[Manavta Nursery E-commerce](https://github.com/rajat290/manavta-nursery)** – An **online plant-selling platform** with authentication, shopping cart, and a responsive UI.  
+- **[Uber Clone](https://github.com/rajat290/uber-clone)** – A **ride-booking app** with real-time tracking, payment integration, and advanced backend logic.
+- **[Fee Management System ](https://github.com/rajat290/uber-clone)** A ** Fee record maintainance Software** 
+- **[Clothing E-commerce Website ](https://github.com/rajat290/uber-clone)** A ** Fee record maintainance Software for the Schools and Colleges** 
+
 - 🔭 I’m currently working on **School Management System, Portfolio Website, Clothes E-com Website**.  
 - 🌱 I’m currently learning **Docker, Kubernetes, PostgreSQL, and CI/CD pipelines**.  
 - 👯 I’m looking to collaborate on **open-source projects** and contribute to **MERN Stack applications**.  
@@ -82,14 +91,6 @@ I'm a passionate Full Stack Software Developer with expertise in MERN Stack (Mon
 </p>
 <hr>
 
-## **Projects**  
-Here are some of my notable projects:  
-
-- **[PaddleLift Job Board](https://github.com/rajat290/paddlelift-job-board)** – A fully functional **job board platform** with job listings, applications, and company branding. 
-- **[Manavta Nursery E-commerce](https://github.com/rajat290/manavta-nursery)** – An **online plant-selling platform** with authentication, shopping cart, and a responsive UI.  
-- **[Uber Clone](https://github.com/rajat290/uber-clone)** – A **ride-booking app** with real-time tracking, payment integration, and advanced backend logic.
-- **[Fee Management System ](https://github.com/rajat290/uber-clone)** A ** Fee record maintainance Software** 
-- **[Clothing E-commerce Website ](https://github.com/rajat290/uber-clone)** A ** Fee record maintainance Software for the Schools and Colleges** 
 
 ---
 

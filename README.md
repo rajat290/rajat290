@@ -1,5 +1,5 @@
 
-# **Hi there, I am Rajat Singh Tomar!** 👋 
+# **Hi, I am Rajat Singh Tomar!** 👋 
 I'm a passionate Full Stack Software Developer with expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js). I love solving real-world problems through scalable and efficient web applications. I'm constantly learning and upskilling to stay ahead in the tech / IT industry.
 ### 🚀 My Tech Stack
 

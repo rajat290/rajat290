@@ -46,15 +46,19 @@ With 3+ years of experience, I’ve developed real-world systems including healt
 
 ---
 
-### 💼 PaddleLift Job Portal
+### GetPay - Payment Management System
 
-> Full-featured job platform with end-to-end hiring workflow
+A comprehensive payment management system for Colleges,educational institutions, Restaurents, Hotels, and every where you need to track you payment and provide a receipt to user with real-time payment tracking, admin dashboard, and Razorpay integration.
 
-- Dynamic job listings, filtering, and candidate management  
-- Scalable backend APIs for job workflows  
-- JWT authentication & RBAC  
+> Real-time Payment Overview: Live statistics showing total received, pending, and failed payments
+Payment Statistics: Monthly trends and percentage changes
+Advanced Filtering: Filter by class, status, date range, and search functionality
+Class-based Filtering: View payments by specific student classes (e.g., 12thA, 11thB)
+Real-time Updates: Automatic refresh every 30 seconds with new payment notifications
+Export Functionality: Export payment data to CSV format
+Payment Details Modal: Detailed view of each payment with Razorpay transaction IDs
 
-👉 https://github.com/rajat290/paddlelift-job-board  
+👉 👉 [GitHub Link Here ]([https://github.com/rajat290/hms](https://github.com/rajat290/GetPay-Complete-Fee-Managemet-System)) 
 
 ---
 

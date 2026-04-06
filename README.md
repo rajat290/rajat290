@@ -1,9 +1,6 @@
 # Hi, I'm Rajat Singh Tomar! 👋
 
-🚀 Backend-Focused Full Stack Developer (Node.js Specialist)
-
-I build scalable backend systems, high-performance APIs, and production-grade applications using Node.js and Express.
-
+Backend-Focused Full Stack Developer (Node.js Specialist), I build scalable backend systems, high-performance APIs, and production-grade applications using Node.js and Express.
 With 3+ years of experience, I’ve developed real-world systems including healthcare platforms, CRM tools, and job portals, focusing on performance, security, and clean architecture.
 
 ---
@@ -20,19 +17,12 @@ With 3+ years of experience, I’ve developed real-world systems including healt
 
 ## 🛠️ Tech Stack
 
-### Backend & Core
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-
-### Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
@@ -52,7 +42,7 @@ With 3+ years of experience, I’ve developed real-world systems including healt
 - Automated scheduling → reduced no-shows by 22%  
 - Secure payment system with Razorpay/Stripe failover  
 
-👉 Add GitHub + Live Demo Link Here  
+👉 [GitHub Link Here ](https://github.com/rajat290/hms) 
 
 ---
 

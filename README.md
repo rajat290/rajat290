@@ -100,7 +100,7 @@ Payment Details Modal: Detailed view of each payment with Razorpay transaction I
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/rajat-singh-tomar  
+- LinkedIn: [Rajat Singh Tomar ](https://www.linkedin.com/in/rajat-singh-tomar-65727a185/)
 - GitHub: https://github.com/rajat290  
 - Email: rajatsinghtomarofficial@gmail.com  
 
